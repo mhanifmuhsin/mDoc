@@ -18,7 +18,7 @@ Remove SSH Keys
 
 Setup git
 ```
-git initial
+git init
 gti remote add [https://github.com/mhanifmuhsin/mDoc.git]
 git add . 
 git commit -m ["description"] 

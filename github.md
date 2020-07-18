@@ -21,13 +21,24 @@ Setup git
 git initial
 gti remote add [https://github.com/mhanifmuhsin/mDoc.git]
 git add . 
-git commit -m ["description"]
+git commit -m ["description"] 
 git push origin [master]
+
+keterangan : hapus kurung siku
 ```
 
 Chekout dan membuat branch baru
 ```
 git checkout -b [master]
+
+keterangan : hapus kurung siku
+```
+
+Checkout (pindah branch)
+```
+git checkout [gh-pages]
+
+keterangan : hapus kurung siku
 ```
 
 

@@ -5,8 +5,3 @@
 layout: home
 ---
 
-  {% if page.custom_css %}
-    {% for stylesheet in page.custom_css %}
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ stylesheet }}.css">
-    {% endfor %}
-  {% endif %}

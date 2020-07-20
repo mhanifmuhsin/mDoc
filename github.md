@@ -19,10 +19,11 @@ Remove SSH Keys
 Setup git
 ```
 git init
-gti remote add [https://github.com/mhanifmuhsin/mDoc.git]
+hit add README.md
+gti remote add origin [https://github.com/mhanifmuhsin/mDoc.git]
 git add . 
 git commit -m ["description"] 
-git push origin [master]
+git push -u origin [master]
 
 keterangan : hapus kurung siku
 ```

@@ -19,7 +19,7 @@ Remove SSH Keys
 Setup git
 ```
 git init
-hit add README.md
+git add README.md
 gti remote add origin [https://github.com/mhanifmuhsin/mDoc.git]
 git add . 
 git commit -m ["description"] 

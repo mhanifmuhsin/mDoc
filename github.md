@@ -20,7 +20,7 @@ Setup git
 ```
 git init
 git add README.md
-gti remote add origin [https://github.com/mhanifmuhsin/mDoc.git]
+git remote add origin [https://github.com/mhanifmuhsin/mDoc.git]
 git add . 
 git commit -m ["description"] 
 git push -u origin [master]

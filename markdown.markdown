@@ -4,6 +4,8 @@ title: Markdown Guide
 permalink: /markdown/
 ---
 
+Reference : [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
 ---
 **Headings**
 ```markdown

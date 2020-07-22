@@ -14,7 +14,6 @@ Address		  : Baleendah, Kab. Bandung
 
 Email : <m.hanif.muhsin@gmail.com>
 
-Phone : 0818 0974 8525
 
 **Employee Objective**
 

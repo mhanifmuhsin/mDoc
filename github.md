@@ -28,7 +28,7 @@ git push -u origin [master]
 keterangan : hapus kurung siku
 ```
 
-Chekout dan membuat branch baru
+Checkout dan membuat branch baru
 ```
 git checkout -b [master]
 
@@ -41,6 +41,38 @@ git checkout [gh-pages]
 
 keterangan : hapus kurung siku
 ```
+
+Cara mengecek branch
+
+```
+git branch
+```
+
+Merge
+```
+git merge [nama branch yang mau digabungkan]
+
+keterangan : hapus kurung siku
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

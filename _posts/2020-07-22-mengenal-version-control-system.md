@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Mengenal Version Control System"
+title:  "Mengenal version control system"
 date:   2020-07-22 23:53:00 +0700
 categories: vcs
 ---
 
 Reference [Attlasian](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
+---
 _Version Control System_ atau disingkat VCS dan terkadang disebut juga SCM (_Source Code Management_) merupakan sebuah _tools_ dengan fungsi inti untuk mengelola dan mengkontrol _source_, _tools_ ini tidak hanya diperuntukan oleh _Software Engineer_ namun  bisa digunakan juga oleh kalangan yang memang membutuhkan manajemen suatu _source_(sumber). Adapun kegunaan dan manfaatnya adalah sebagai berikut :
 
 Kegunaan VCS :
@@ -22,3 +23,7 @@ Manfaat VCS :
 
 Contoh dari VCS yang populer saat ini ialah Git, walaupun ada satu lagi yang diberinama SVN, keduanya mempunyai peran yang sama namun dengan mekanisme yang berbeda. 
 Demikian penjelasan singkat mengenai VCS, untuk pengenalan yang lebih mendalam akan saya tulis di postingan-postingan selanjutnya. 
+
+---
+
+Bahasan selanjutnya [Source code management](https://mhanifmuhsin.github.io/mDoc/vcs/2020/07/23/source-code-management.html)

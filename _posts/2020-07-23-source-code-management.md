@@ -7,7 +7,9 @@ categories: vcs
 
 Reference [Attlasian](https://www.atlassian.com/git/tutorials/source-code-management)
 
-Sebaiknya kenali terlebih dahulu [Version Control System](https://mhanifmuhsin.github.io/mDoc/vcs/2020/07/22/mengenal-version-control-system.html) sebelum melanjutkan ke Source code management.
+Bahasan sebelumnya [Version control system](https://mhanifmuhsin.github.io/mDoc/vcs/2020/07/22/mengenal-version-control-system.html) 
+
+---
 
 _Source code management_ (SCM) digunakan untuk melacak ataupun memodifikasi ke repositori _source code_, SCM juga identik dengan _Version control._
 
@@ -25,4 +27,7 @@ Selain sebagai _version control_, SCM dapat juga mengembalikan basis kode ke tit
 5. _Use Branches_ (Gunakan cabang)
 6. _Agree on a Workflow_ (Setuju pada alur kerja), dengan maksud alur kerja SCM untuk menentukan pola dan proses menggabungan cabang.
 
-Sekian postingan mengenai _Source code management_ sampai jumpa di postingan selanjutnya mengenai _source code management_.
+Sekian postingan mengenai _Source code management_ .
+
+---
+Bahasan selanjutnya [Apa itu Git ?]()

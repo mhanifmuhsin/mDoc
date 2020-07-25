@@ -12,3 +12,5 @@ Demo Spring Boot Mysql [demo-springboot-mysql](https://github.com/mhanifmuhsin/d
 
 Java Functional [javafunctional](https://github.com/mhanifmuhsin/javafunctional.git)
 
+Demo Spring Boot MVC [demo] (https://github.com/mhanifmuhsin/demo-springboot-mvc.git)
+

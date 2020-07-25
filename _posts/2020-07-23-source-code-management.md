@@ -30,4 +30,4 @@ Selain sebagai _version control_, SCM dapat juga mengembalikan basis kode ke tit
 Sekian postingan mengenai _Source code management_ .
 
 ---
-Bahasan selanjutnya [Apa itu Git ?]()
+Bahasan selanjutnya [Apa itu Git ?](https://mhanifmuhsin.github.io/mDoc/vcs/2020/07/25/apa-itu-git.html)

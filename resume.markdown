@@ -49,7 +49,7 @@ As Java Developer responsible for :
 
 Project :
 
-- Smart Patrol, Asahimas (July 2020 - Present)
+- Smart Patrol, Asahimas Chemical (July 2020 - Present)
 - Secure Loan, PT Bank Mega Tbk (October 2018 - Present)
 - Procurement System, PT Komatsu Indonesia (August 2018 - October 2018)
 
@@ -77,7 +77,9 @@ Having knowledge in the following technoogies
 
 **Database** : MySQL
 
-Unduh File PDF [Resume]({{ data.url }}/resume_hanif_baru.pdf).
+Unduh File PDF [Resume](https://drive.google.com/file/d/164Ui_Qy0zIHBGBLwYlmteRj6Q4KyctjK/view?usp=sharing).
+
+Unduh File PDF [CV](https://drive.google.com/file/d/164Ui_Qy0zIHBGBLwYlmteRj6Q4KyctjK/view?usp=sharing).
 
 
 

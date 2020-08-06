@@ -50,7 +50,7 @@ As Java Developer responsible for :
 Project :
 
 - Smart Patrol, Asahimas Chemical (July 2020 - Present)
-- Secure Loan, PT Bank Mega Tbk (October 2018 - Present)
+- Secure Loan, PT Bank Mega Tbk (October 2018 - 2020)
 - Procurement System, PT Komatsu Indonesia (August 2018 - October 2018)
 
 **Dinas Pendidikan Provinsi Jawa Barat (March 2016 - December 2017)**

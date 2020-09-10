@@ -58,3 +58,13 @@ e.g
 
 Keterangan : Hapus kurung siku
 ```
+
+**Menambahkan Gambar pada Post**
+
+Tambahkan Folder _assets_
+
+![image tooltip here](/assets/add_img.png){:class="img-responsive"}
+
+```
+![image tooltip here](/assets/spring.ide.png){:class="img-responsive"}
+ ```
